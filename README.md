@@ -7,4 +7,4 @@ Adaptive traffic light implemented on Arduino using LDR Light sensor and Finite 
 
 In the following images, the FSM implemented on the code can be seen
 
-![alt text](https://raw.githubusercontent.com/tidusdavid/adaptive-traffic-light/master/resources/FSM.png)
+![alt text](https://raw.githubusercontent.com/tidusdavid/adaptive-traffic-light-ctrl/master/resources/FSM.png)
